@@ -68,7 +68,7 @@
             <!-- Cart Item -->
             <div class="media">
               <a href="#">
-                <img class="media-object img- mr-3" src="assets/images/cart-1.jpg" alt="image" />
+                <img class="media-object img- mr-3" src="../assets/images/cart-1.jpg" alt="image" />
               </a>
               <div class="media-body">
                 <h6>Ladies Bag</h6>
@@ -83,7 +83,7 @@
             <!-- Cart Item -->
             <div class="media">
               <a href="#">
-                <img class="media-object img-fluid mr-3" src="assets/images/cart-2.jpg" alt="image" />
+                <img class="media-object img-fluid mr-3" src="../assets/images/cart-2.jpg" alt="image" />
               </a>
               <div class="media-body">
                 <h6>Skinny Jeans</h6>

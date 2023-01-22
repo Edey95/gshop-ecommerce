@@ -2,7 +2,7 @@
    
     <div id="carouselExampleControls" class="carousel slide main-slider slider" data-ride="carousel">
          <div class="carousel-inner">
-          <div  class="slider-item carousel-item active" style="background-image:url('assets/images/slideshow1-2.jpg')">
+          <div  class="slider-item carousel-item active" style="background-image:url('../assets/images/slideshow1-2.jpg')">
                 <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-12 offset-lg-6 offset-md-6">
@@ -15,7 +15,7 @@
                 </div>
                 </div>
             </div>
-            <div   class="slider-item carousel-item" style="background-image:url('assets/images/slideshow1-3.jpg')">
+            <div   class="slider-item carousel-item" style="background-image:url('../assets/images/slideshow1-3.jpg')">
                 <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-12 offset-lg-6 offset-md-6">
@@ -28,7 +28,7 @@
                 </div>
                 </div>
             </div>
-            <div   class="slider-item carousel-item" style="background-image:url('assets/images/slideshow1-1.jpg'); background-position:50%;background-repeat:no-repeat;">
+            <div   class="slider-item carousel-item" style="background-image:url('../assets/images/slideshow1-1.jpg'); background-position:50%;background-repeat:no-repeat;">
                 <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-12 offset-lg-6 offset-md-6">
@@ -56,7 +56,7 @@
             <div class="row">
             <div class="col-lg-4 col-sm-12 col-md-6">
                 <div class="cat-item mb-4 mb-lg-0">
-                <img src="assets/images/cat-1.jpg" alt="" class="img-fluid">
+                <img src="../assets/images/cat-1.jpg" alt="" class="img-fluid">
                 <div class="item-info">
                     <p class="mb-0">Stylish Leather watch</p>
                     <h4 class="mb-4">up to <strong>50% </strong>off</h4>
@@ -68,7 +68,7 @@
     
             <div class="col-lg-4 col-sm-12 col-md-6">
                 <div class="cat-item mb-4 mb-lg-0">
-                <img src="assets/images/cat-2.jpg" alt="" class="img-fluid">
+                <img src="../assets/images/cat-2.jpg" alt="" class="img-fluid">
     
                 <div class="item-info">
                     <p class="mb-0">Ladies hand bag</p>
@@ -81,7 +81,7 @@
     
             <div class="col-lg-4 col-sm-12 col-md-6">
                 <div class="cat-item">
-                <img src="assets/images/cat-3.jpg" alt="" class="img-fluid">
+                <img src="../assets/images/cat-3.jpg" alt="" class="img-fluid">
                 <div class="item-info">
                     <p class="mb-0">Trendy shoe</p>
                     <h4 class="mb-4">up to <strong>50% </strong>off</h4>
@@ -110,8 +110,8 @@
                 <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5" >
                     <div class="product">
                     <div class="product-wrap">
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="assets/images/322.jpg" alt="product-img" /></a>
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="assets/images/444.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="../assets/images/322.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="../assets/images/444.jpg" alt="product-img" /></a>
                     </div>
         
                     <span class="onsale">Sale</span>
@@ -132,8 +132,8 @@
                 <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5">
                 <div class="product">
                     <div class="product-wrap">
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="assets/images/111.jpg" alt="product-img" /></a>
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="assets/images/444.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="../assets/images/111.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="../assets/images/444.jpg" alt="product-img" /></a>
                     </div>
         
                     <div class="product-hover-overlay">
@@ -153,8 +153,8 @@
                 <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5" >
                 <div class="product">
                     <div class="product-wrap">
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="assets/images/222.jpg" alt="product-img" /></a>
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="assets/images/322.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="../assets/images/222.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="../assets/images/322.jpg" alt="product-img" /></a>
                     </div>
         
                     <span class="onsale">Sale</span>
@@ -175,8 +175,8 @@
                 <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5">
                 <div class="product">
                     <div class="product-wrap">
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="assets/images/322.jpg" alt="product-img" /></a>
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="assets/images/111.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="../assets/images/322.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="../assets/images/111.jpg" alt="product-img" /></a>
                     </div>
         
                     <div class="product-hover-overlay">
@@ -196,8 +196,8 @@
                 <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5">
                 <div class="product">
                     <div class="product-wrap">
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="assets/images/444.jpg" alt="product-img" /></a>
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="assets/images/222.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="../assets/images/444.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="../assets/images/222.jpg" alt="product-img" /></a>
                     </div>
         
                     <div class="product-hover-overlay">
@@ -217,8 +217,8 @@
                 <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5" >
                 <div class="product">
                     <div class="product-wrap">
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="assets/images/322.jpg" alt="product-img" /></a>
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="assets/images/222.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="../assets/images/322.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="../assets/images/222.jpg" alt="product-img" /></a>
                     </div>
         
                     <div class="product-hover-overlay">
@@ -238,8 +238,8 @@
                 <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5 " >
                 <div class="product">
                     <div class="product-wrap">
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="assets/images/111.jpg" alt="product-img" /></a>
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="assets/images/444.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="../assets/images/111.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="../assets/images/444.jpg" alt="product-img" /></a>
                     </div>
         
                     <div class="product-hover-overlay">
@@ -259,8 +259,8 @@
             <div class="col-lg-3 col-12 col-md-6 col-sm-6 mb-5 " >
                 <div class="product">
                     <div class="product-wrap">
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="assets/images/222.jpg" alt="product-img" /></a>
-                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="assets/images/322.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-first" src="../assets/images/222.jpg" alt="product-img" /></a>
+                        <a href="#"><img class="img-fluid w-100 mb-3 img-second" src="../assets/images/322.jpg" alt="product-img" /></a>
                     </div>
         
                     <div class="product-hover-overlay">
@@ -303,7 +303,7 @@
         <div class="container">
             <div class="row">
             <div class="col-lg-4 col-sm-12 col-md-12">
-                <img src="assets/images/adsv.jpg" alt="Product big thumb"  class="img-fluid w-100">
+                <img src="../assets/images/adsv.jpg" alt="Product big thumb"  class="img-fluid w-100">
             </div>
     
             <div class="col-lg-4 col-sm-6 col-md-6">
@@ -312,7 +312,7 @@
     
                         <div class="media mb-3">
                             <a class="featured-entry-thumb" href="#">
-                            <img src="assets/images/p-1.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
+                            <img src="../assets/images/p-1.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
                         </a>
                         <div class="media-body">
                             <h6 class="featured-entry-title mb-0"><a href="#">Keds - Kickstart Pom Pom</a></h6>
@@ -322,7 +322,7 @@
     
                         <div class="media mb-3">
                             <a class="featured-entry-thumb" href="#">
-                            <img src="assets/images/p-2.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
+                            <img src="../assets/images/p-2.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
                         </a>
                         <div class="media-body">
                             <h6 class="featured-entry-title mb-0"><a href="#">Nike - Brasilia Medium Backpack</a></h6>
@@ -332,7 +332,7 @@
     
                         <div class="media mb-3">
                         <a class="featured-entry-thumb" href="#">
-                            <img src="assets/images/p-3.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
+                            <img src="../assets/images/p-3.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
                         </a>
                         <div class="media-body">
                             <h6 class="featured-entry-title mb-0"><a href="#">Guess - GU7295</a></h6>
@@ -342,7 +342,7 @@
     
                         <div class="media mb-3">
                             <a class="featured-entry-thumb" href="#">
-                            <img src="assets/images/p-4.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
+                            <img src="../assets/images/p-4.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
                         </a>
                         <div class="media-body">
                             <h6 class="featured-entry-title mb-0"><a href="#">Adidas Originals Cap</a></h6>
@@ -352,7 +352,7 @@
     
                         <div class="media">
                             <a class="featured-entry-thumb" href="#">
-                            <img src="assets/images/p-5.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
+                            <img src="../assets/images/p-5.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
                         </a>
                         <div class="media-body">
                             <h6 class="featured-entry-title mb-0"><a href="#">Big Star Flip Tops</a></h6>
@@ -369,7 +369,7 @@
     
                         <div class="media mb-3">
                             <a class="featured-entry-thumb" href="#">
-                            <img src="assets/images/p-7.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
+                            <img src="../assets/images/p-7.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
                         </a>
                         <div class="media-body">
                             <h6 class="featured-entry-title mb-0"><a href="#">Keds - Kickstart Pom Pom</a></h6>
@@ -379,7 +379,7 @@
     
                         <div class="media mb-3">
                             <a class="featured-entry-thumb" href="#">
-                            <img src="assets/images/p-8.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
+                            <img src="../assets/images/p-8.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
                         </a>
                         <div class="media-body">
                             <h6 class="featured-entry-title mb-0"><a href="#">Nike - Brasilia Medium Backpack</a></h6>
@@ -389,7 +389,7 @@
     
                         <div class="media mb-3">
                         <a class="featured-entry-thumb" href="#">
-                            <img src="assets/images/p-1.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
+                            <img src="../assets/images/p-1.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
                         </a>
                         <div class="media-body">
                             <h6 class="featured-entry-title mb-0"><a href="#">Guess - GU7295</a></h6>
@@ -399,7 +399,7 @@
     
                         <div class="media mb-3">
                             <a class="featured-entry-thumb" href="#">
-                            <img src="assets/images/p-2.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
+                            <img src="../assets/images/p-2.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
                         </a>
                         <div class="media-body">
                             <h6 class="featured-entry-title mb-0"><a href="#">Adidas Originals Cap</a></h6>
@@ -409,7 +409,7 @@
     
                         <div class="media">
                             <a class="featured-entry-thumb" href="#">
-                            <img src="assets/images/p-4.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
+                            <img src="../assets/images/p-4.jpg" alt="Product thumb" width="64" class="img-fluid mr-3">
                         </a>
                         <div class="media-body">
                             <h6 class="featured-entry-title mb-0"><a href="#">Big Star Flip Tops</a></h6>
